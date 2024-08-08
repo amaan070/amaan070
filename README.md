@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amaan Ahmad.
-- 👀 I’m interested in technology, app development and coding!
-- 🌱 I’m currently learning Flutter App Development abd Computer Science.
+- 👀 I’m interested in technology, application development and coding!
+- 🌱 I’m currently learning Flutter Application Development and Computer Science.
 - 💞️ I’m looking to collaborate on Flutter Application Development Projects.
 - 📫 How to reach me? Email me at pramn070@gmail.com
 

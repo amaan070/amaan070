@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amaan070
-- 👀 I’m interested in technology, app development, coding!
-- 🌱 I’m currently learning Flutter App Development adn Computer Science.
-- 💞️ I’m looking to collaborate on Flutter Development Projects
+- 👋 Hi, I’m Amaan Ahmad.
+- 👀 I’m interested in technology, app development and coding!
+- 🌱 I’m currently learning Flutter App Development abd Computer Science.
+- 💞️ I’m looking to collaborate on Flutter Application Development Projects.
 - 📫 How to reach me? Email me at pramn070@gmail.com
 
 <!---
